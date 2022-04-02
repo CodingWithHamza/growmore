@@ -821,6 +821,12 @@ quote {
   }
 }
 
+@media (min-width: 320px) and (max-width: 430px){
+  .copyright{
+    height: 45px;
+  }
+}
+
 @media (max-width: 320px) {
   .contact {
     flex-direction: column;
